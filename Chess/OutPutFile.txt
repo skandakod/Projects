@@ -1,0 +1,100 @@
+100, Cordova Emilio, 2655
+99, Howell David W L, 2655
+98, Salem A.R. Saleh, 2656
+97, Ganguly Surya Shekhar, 2657
+96, Fedoseev Vladimir, 2658
+93, Fressinet Laurent, 2660
+94, Ipatov Alexander, 2660
+95, Tkachiev Vladislav, 2660
+91, Dubov Daniil, 2661
+90, Moiseenko Alexander, 2661
+92, Sasikiran Krishnan, 2661
+89, Laznicka Viktor, 2662
+88, Zhigalko Sergei, 2662
+87, Motylev Alexander, 2663
+85, Jones Gawain C B, 2665
+86, Markus Robert, 2665
+82, Amin Bassem, 2666
+84, Bareev Evgeny, 2666
+83, Kamsky Gata, 2666
+79, Onischuk Alexander, 2667
+81, Sargissian Gabriel, 2667
+78, Smirin Ilia, 2667
+80, Xiong Jeffery, 2667
+77, Negi Parimarjan, 2670
+76, Rakhmanov Aleksandr, 2670
+75, Wang Hao, 2670
+74, Riazantsev Alexander, 2671
+73, Sadler Matthew D, 2672
+72, Sjugirov Sanan, 2673
+71, Vidit Santosh Gujrathi, 2673
+69, Ni Hua, 2674
+70, Shankland Samuel L, 2674
+67, Akopian Vladimir, 2675
+66, Morozevich Alexander, 2675
+68, Robson Ray, 2675
+65, Short Nigel D, 2675
+64, Movsesian Sergei, 2676
+61, Areshchenko Alexander, 2679
+62, Najer Evgeniy, 2679
+63, Zvjaginsev Vadim, 2679
+60, Nisipeanu Liviu-Dieter, 2680
+59, Rublevsky Sergei, 2681
+58, Shirov Alexei, 2683
+57, Duda Jan-Krzysztof, 2684
+56, Kovalenko Igor, 2684
+55, Safarli Eltaj, 2686
+54, Mamedov Rauf, 2688
+53, Cheparinov Ivan, 2689
+52, Korobov Anton, 2689
+51, Leko Peter, 2693
+50, Rodshtein Maxim, 2693
+48, Bacrot Etienne, 2695
+49, Van Wely Loek, 2695
+47, Ragger Markus, 2697
+46, Almasi Zoltan, 2698
+45, Kasimdzhanov Rustam, 2699
+43, Jobava Baadur, 2701
+42, Kryvoruchko Yuriy, 2701
+44, Matlakov Maxim, 2701
+41, Naiditsch Arkadij, 2702
+40, Rapport Richard, 2702
+39, Wang Yue, 2706
+38, Wei Yi, 2706
+35, Jakovenko Dmitry, 2709
+37, Ponomariov Ruslan, 2709
+36, Vallejo Pons Francisco, 2709
+34, Radjabov Teimour, 2710
+32, Bu Xiangzhi, 2711
+33, Tomashevsky Evgeny, 2711
+31, Malakhov Vladimir, 2715
+30, Le Quang Liem, 2718
+29, Li Chao b, 2720
+28, Gelfand Boris, 2721
+27, Inarkiev Ernesto, 2723
+26, Vitiugov Nikita, 2724
+25, Navara David, 2735
+24, Andreikin Dmitry, 2736
+23, Yu Yangyi, 2738
+22, Dominguez Perez Leinier, 2739
+21, Topalov Veselin, 2739
+20, Grischuk Alexander, 2742
+19, Svidler Peter, 2748
+18, Wojtaszek Radoslaw, 2750
+17, Adams Michael, 2751
+16, Ivanchuk Vassily, 2752
+15, Eljanov Pavex, 2755
+14, Ding LirenCHN, 2760
+12, Harikrishna P., 2766
+13, Mamedyarov Shakhriyar, 2766
+11, Nepomniachtchi IanR, 2767
+10, Giri Anish, 2773
+9, Aronian Levon, 2780
+8, Karjakin Sergey, 2785
+7, Nakamura Hikaru, 2785
+6, Anand Viswanathan, 2786
+5, Vachier-Lagrave Maxime, 2796
+4, So Wesley, 2808
+3, Kramnik Vladimir, 2811
+2, Caruana Fabiano, 2827
+1, Carlsen Magnus, 2840

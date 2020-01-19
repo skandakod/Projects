@@ -1,0 +1,100 @@
+1,Carlsen Magnus,2840
+2,Caruana Fabiano,2827
+3,Kramnik Vladimir,2811
+4,So Wesley,2808
+5,Vachier-Lagrave Maxime,2796
+6,Anand Viswanathan,2786
+7,Nakamura Hikaru,2785
+8,Karjakin Sergey,2785
+9,Aronian Levon,2780
+10,Giri Anish,2773
+11,Nepomniachtchi IanR,2767
+12,Harikrishna P.,2766
+13,Mamedyarov Shakhriyar,2766
+14,Ding LirenCHN,2760
+15,Eljanov Pavex,2755
+16,Ivanchuk Vassily,2752
+17,Adams Michael,2751
+18,Wojtaszek Radoslaw,2750
+19,Svidler Peter,2748
+20,Grischuk Alexander,2742
+21,Topalov Veselin,2739
+22,Dominguez Perez Leinier,2739
+23,Yu Yangyi,2738
+24,Andreikin Dmitry,2736
+25,Navara David,2735
+26,Vitiugov Nikita,2724
+27,Inarkiev Ernesto,2723
+28,Gelfand Boris,2721
+29,Li Chao b,2720
+30,Le Quang Liem,2718
+31,Malakhov Vladimir,2715
+32,Bu Xiangzhi,2711
+33,Tomashevsky Evgeny,2711
+34,Radjabov Teimour,2710
+35,Jakovenko Dmitry,2709
+36,Vallejo Pons Francisco,2709
+37,Ponomariov Ruslan,2709
+38,Wei Yi,2706
+39,Wang Yue,2706
+40,Rapport Richard,2702
+41,Naiditsch Arkadij,2702
+42,Kryvoruchko Yuriy,2701
+43,Jobava Baadur,2701
+44,Matlakov Maxim,2701
+45,Kasimdzhanov Rustam,2699
+46,Almasi Zoltan,2698
+47,Ragger Markus,2697
+48,Bacrot Etienne,2695
+49,Van Wely Loek,2695
+50,Rodshtein Maxim,2693
+51,Leko Peter,2693
+52,Korobov Anton,2689
+53,Cheparinov Ivan,2689
+54,Mamedov Rauf,2688
+55,Safarli Eltaj,2686
+56,Kovalenko Igor,2684
+57,Duda Jan-Krzysztof,2684
+58,Shirov Alexei,2683
+59,Rublevsky Sergei,2681
+60,Nisipeanu Liviu-Dieter,2680
+61,Areshchenko Alexander,2679
+62,Najer Evgeniy,2679
+63,Zvjaginsev Vadim,2679
+64,Movsesian Sergei,2676
+65,Short Nigel D,2675
+66,Morozevich Alexander,2675
+67,Akopian Vladimir,2675
+68,Robson Ray,2675
+69,Ni Hua,2674
+70,Shankland Samuel L,2674
+71,Vidit Santosh Gujrathi,2673
+72,Sjugirov Sanan,2673
+73,Sadler Matthew D,2672
+74,Riazantsev Alexander,2671
+75,Wang Hao,2670
+76,Rakhmanov Aleksandr,2670
+77,Negi Parimarjan,2670
+78,Smirin Ilia,2667
+79,Onischuk Alexander,2667
+80,Xiong Jeffery,2667
+81,Sargissian Gabriel,2667
+82,Amin Bassem,2666
+83,Kamsky Gata,2666
+84,Bareev Evgeny,2666
+85,Jones Gawain C B,2665
+86,Markus Robert,2665
+87,Motylev Alexander,2663
+88,Zhigalko Sergei,2662
+89,Laznicka Viktor,2662
+90,Moiseenko Alexander,2661
+91,Dubov Daniil,2661
+92,Sasikiran Krishnan,2661
+93,Fressinet Laurent,2660
+94,Ipatov Alexander,2660
+95,Tkachiev Vladislav,2660
+96,Fedoseev Vladimir,2658
+97,Ganguly Surya Shekhar,2657
+98,Salem A.R. Saleh,2656
+99,Howell David W L,2655
+100,Cordova Emilio,2655
