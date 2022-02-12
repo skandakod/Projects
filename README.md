@@ -1,11 +1,11 @@
 # Projects
 Space for past personal projects
 
-# Minesweeper Concept:  
-![Game Image](https://github.com/skandakod/Projects/blob/master/Minesweeper/Game.png)  
-
 # Block Stack Concept:  
 ![Game Image](https://github.com/skandakod/Projects/blob/master/Tetris/BlockStack.png)  
+
+# Minesweeper Concept:  
+![Game Image](https://github.com/skandakod/Projects/blob/master/Minesweeper/Game.png)  
 
 # Piano Tiles Concept:  
 ![Game Image](https://github.com/skandakod/Projects/blob/master/PianoTilesClone/ScreenShots/MidGame.PNG)  
