@@ -1,14 +1,14 @@
 # Projects
 Space for past personal projects
 
-# Minesweeper:  
+# Minesweeper Concept:  
 ![Game Image](https://github.com/skandakod/Projects/blob/master/Minesweeper/Game.png)  
 
-# Tetris:  
+# Block Stack Concept:  
 ![Game Image](https://github.com/skandakod/Projects/blob/master/Tetris/Game.png)  
 
-# Piano Tiles:  
+# Piano Tiles Concept:  
 ![Game Image](https://github.com/skandakod/Projects/blob/master/PianoTilesClone/ScreenShots/MidGame.PNG)  
 
-# TicTacToe:  
+# TicTacToe Vs. AI:  
 ![Game Image](https://github.com/skandakod/Projects/blob/master/TicTacToe/Game.png)
